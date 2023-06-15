@@ -8,3 +8,7 @@
 .todoactions-btn:not(:last-child) {
     margin: 0 10px 0 0;
 }
+
+.ActionsIcon {
+    background-color: white;
+}
